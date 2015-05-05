@@ -1,0 +1,29 @@
+#include <iostream>
+#include <string>
+using
+namespace
+std
+;
+int
+main
+(
+void
+)
+{
+string
+hoge
+;
+cin
+>>
+hoge
+;
+cout
+<<
+hoge
+<<
+endl
+;
+return 
+0
+;
+}

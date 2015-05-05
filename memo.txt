@@ -1,0 +1,5 @@
+compile
+g++ file.cpp
+
+execute
+./a.out
